@@ -1,0 +1,15 @@
+Building...
+info: Uke_1_d2[0]
+      Server running..
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5014
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /home/fs/Dokumenter/Backup_Sep_24/Jobb/November/Uke_1_d2
+Data recieved from client: hello server!
+Data recieved from client: hello again
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
